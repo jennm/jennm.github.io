@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+# description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## UT Austin:
 
-Organize your courses by years, topics, or universities, however you like!
+[1] TA for [CS 371N: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/fa2023/cs371n.shtml) taught by [Dr. Greg Durrett](https://www.cs.utexas.edu/~gdurrett/) (Fall 2023)
+
+[2] TA for UGS 303: Orignality in the Arts and Sciences taught by Dr. Arturo De Lozanne (Fall 2021, Fall 2022) and Dr. David Laude + Dr. Donnie Sackey (Fall 2023)
+
+[3] AI and Algorithmic Fairness Directed Reading Program Mentor (Fall 2022 - Spring 2023)
