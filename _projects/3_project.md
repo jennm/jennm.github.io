@@ -2,7 +2,7 @@
 layout: page
 title: Tackling Microagressions Through a Welcoming Environment in Computer Science
 description: DEI Capstone Project
-img: assets/img/7.jpg
+img: assets/img/microaggressions.png
 pdf: assets/pdf/DEI Capstone Presentation.pdf
 # redirect: https://unsplash.com
 importance: 3
