@@ -20,6 +20,7 @@ I'm lucky to be advised by [Dr. Maria De-Arteaga](https://mariadearteaga.com/) a
 
 With Dr. Maria De-Arteaga and Dr. Sina Fazelpour, I've worked on diversity and dataset development. With Dr. Kevin Tian, I've worked on "beyond-worst-case" distributionally robust optimization (DRO) focused on improving performance for marginalized intersectional groups in demographic-free settings. I've also been fortunate to have my Polymathic Scholars Honors Thesis advised by Dr. Maria De-Arteaga and [Dr. Tina Peterson](https://sites.google.com/view/tlpeterson).
 
-My research interests lie in AI and algorithmic fairness and natural language processing (NLP) with the goal of developing systems that empower people without contributing to systems of oppression. 
+My research interests lie in AI and algorithmic fairness and natural language processing (NLP) with the goal of developing systems that empower people without perpetuating societal harms. 
+<!-- contributing to systems of oppression.  -->
 
 If we share interests, feel free to reach out! My email is ja [last name] [at] utexas [dot] edu. :)
