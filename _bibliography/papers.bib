@@ -3,6 +3,49 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{mickel2024racial,
+  bibtex_show={show},
+  title={Racial/Ethnic Categories in AI and Algorithmic Fairness: Why They Matter and What They Represent},
+  author={Mickel, Jennifer},
+  journal={To Appear at the ACM Conference on Fairness, Accountability, and Transparency},
+  year={2024},
+  abstract={Racial diversity has become increasingly discussed within the AI and algorithmic fairness literature, yet little attention is focused on justifying the choices of racial categories and understanding how people are racialized into these chosen racial categories. Even less attention is given to how racial categories shift and how the racialization process changes depending on the context of a dataset or model. An unclear understanding of who comprises the racial categories chosen and how people are racialized into these categories can lead to varying interpretations of these categories. These varying interpretations can lead to harm when the understanding of racial categories and the racialization process is misaligned from the actual racialization process and racial categories used. Harm can also arise if the racialization process and racial categories used are irrelevant or do not exist in the context they are applied.
+
+  In this paper, we make two contributions. First, we demonstrate how racial categories with unclear assumptions and little justification can lead to varying datasets that poorly represent groups obfuscated or unrepresented by the given racial categories and models that perform poorly on these groups. Second, we develop a framework, CIRCSheets, for documenting the choices and assumptions in choosing racial categories and the process of racialization into these categories to facilitate transparency in understanding the processes and assumptions made by dataset or model developers when selecting or using these racial categories.},
+  pdf={https://arxiv.org/pdf/2404.06717}
+}
+
+@article{mickel2024intersectional,
+  bibtex_show={show},
+  title={Intersectional Insights for Robust Models: Introducing FOG 😶‍🌫️ for Improving Worst Case Performance Without Group Information},
+  author={Mickel, Jennifer},
+  school={The University of Texas at Austin},
+  journal={Turing Scholars Honors Thesis},
+  abstract={Standard training through empirical risk minimization (ERM) can result
+    in seemingly well-performing models that reach high accuracy on average
+    but achieve low accuracy on specific groups. Group-specific low accuracy
+    is especially of concern in cases in which groups are underrepresented in
+    the training data or when spurious correlations are present within data.
+    Furthermore, instances can be a part of multiple groups, as in the case of
+    demographic groups. Previous approaches, such as group distributional
+    robust optimization (Group DRO), achieve high worst-group accuracy yet
+    require group information. Group information is not always available due
+    to legal, data quality, or cost constraints. Other approaches not requiring
+    group information exist, but gaps between these approaches and group
+    DRO persist and seldom consider overlapping groups. We develop a model
+    development cycle and algorithm Fog to improve the performance of the
+    worst-performing group without group information that accounts for 
+    overlapping groups. We first train a model using ERM and utilize the model
+    features corresponding with the data to identify groups. We use these
+    identified groups with group DRO to train a new model. This process can
+    be repeated to improve performance. Using our method, we find that we
+    can improve the performance of the worst-performing group compared to
+    ERM and other algorithms not requiring group information, such as JTT.},
+  year={2024},
+  pdf={https://drive.google.com/file/d/1dQAHiaMckSDwnlHYq1FRyZtky7WJqaWm/view?usp=sharing},
+  slides={https://docs.google.com/presentation/d/1jKlz_P5VhMGKxwlFJMuOcV2N2AzbSMGVP__l6Ylzs40/edit#slide=id.g708a6ee8a1_0_46}
+}
+
 @article{mickel2023importance,
   bibtex_show={show},
   title={The Importance of Multi-Dimensional Intersectionality in Algorithmic Fairness and AI Model Development},
