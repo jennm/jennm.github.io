@@ -6,7 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: aus_jenn.jpeg
+  image: aus_jenn_2024_prof.jpeg #  # image: aus_jenn.jpeg
+  # image: aus_jenn.jpeg
   image_circular: true # crops the image to make it circular
   more_info:
 news: false  # includes a list of news items
@@ -15,12 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Jenn! I'm currently a 4th year undergrad studying Computer Science and Mathematics in the [Turing Scholars](https://www.cs.utexas.edu/turing-scholars) and [Polymathic Scholars](https://honors.cns.utexas.edu/polymathic-scholars) honors programs and minoring in African and African Diaspora Studies, Sociology, and Women and Gender Studies at [The University of Texas at Austin](https://www.utexas.edu/).
-I'm lucky to be advised by [Dr. Maria De-Arteaga](https://mariadearteaga.com/) and [Dr. Kevin Tian](https://kjtian.github.io/), and I've had the pleasure of working with [Dr. Sina Fazelpour](https://sinafazelpour.com/). 
+Hi, I'm Jenn! I'm a researcher studying social biases in AI systems and developing robust algorithms, frameworks, and evaluations for the development of systems that empower people without perpetuating societal harms. 
 
-With Dr. Maria De-Arteaga and Dr. Sina Fazelpour, I've worked on diversity and dataset development. With Dr. Kevin Tian, I've worked on "beyond-worst-case" distributionally robust optimization (DRO) focused on improving performance for marginalized intersectional groups in demographic-free settings. I've also been fortunate to have my Polymathic Scholars Honors Thesis advised by Dr. Maria De-Arteaga and [Dr. Tina Peterson](https://sites.google.com/view/tlpeterson).
+I just finished my undergrad at [UT Austin](https://www.utexas.edu/) where I was a [Dean's Honored Graduate](https://cns.utexas.edu/info-undergraduate-students/events-recognition/deans-honored-graduates) and studied Computer Science and Mathematics in the [Turing Scholars](https://www.cs.utexas.edu/turing-scholars) and [Polymathic Scholars](https://honors.cns.utexas.edu/polymathic-scholars) honors programs and minored in African and African Diaspora Studies, Sociology, and Women and Gender Studies at [The University of Texas at Austin](https://www.utexas.edu/). Currently, I'm building tools for observing LLMs at Datadog and working on research with my wonderful thesis advisors [Dr. Maria De-Arteaga](https://mariadearteaga.com/), [Dr. Kevin Tian](https://kjtian.github.io/), and [Dr. Leqi Liu]() and the incredible [Dr. Sina Fazelpour](https://sinafazelpour.com/) as well as my amazing collobarators [Saloni Modi](https://www.linkedin.com/in/saloni-modi42/) and [Jonathan Li](https://www.cs.utexas.edu/~jli/). 
 
-My research interests lie in AI and algorithmic fairness and natural language processing (NLP) with the goal of developing systems that empower people without perpetuating societal harms. 
-<!-- contributing to systems of oppression.  -->
-
-If we share interests, feel free to reach out! My email is ja [last name] [at] utexas [dot] edu. :)
+If we share interests or you are interested in collaborating, feel free to reach out! My email is ja [last name] [at] utexas [dot] edu. :)
