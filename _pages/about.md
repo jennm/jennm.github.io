@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 📍 *New York, NY ✨ she/her*
+subtitle: 📍 New York, NY ✨ she/her
 
 profile:
   align: right
