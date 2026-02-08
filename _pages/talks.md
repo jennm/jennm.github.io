@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+#### Challenges Faced in Engaging with AI Policy by Grassroots Organizations
+
+- Algorithmic Collective Action Workshop (NeurIPS), 2025. (oral presentation)
 
 #### Evaluating the Social Impact of Generative AI Systems in Systems and Society
 
