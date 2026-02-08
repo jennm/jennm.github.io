@@ -22,7 +22,7 @@ and developing robust algorithms, [frameworks](https://academic.oup.com/edited-v
 
 I finished my undergrad at [UT Austin](https://www.utexas.edu/) where I was a [Dean's Honored Graduate](https://cns.utexas.edu/info-undergraduate-students/events-recognition/deans-honored-graduates) and studied Computer Science and Mathematics in the [Turing Scholars](https://www.cs.utexas.edu/turing-scholars) and [Polymathic Scholars](https://honors.cns.utexas.edu/polymathic-scholars) honors programs and minored in African and African Diaspora Studies, Sociology, and Women and Gender Studies. I was advised by [Dr. Maria De-Arteaga](https://mariadearteaga.com/) and [Dr. Kevin Tian](https://kjtian.github.io/).
 
-Currently, I am a software engineer building evaluations on the LLM Observability team at Datadog and a researcher with [EleutherAI][https://www.eleuther.ai/] working with the [Evaluating Evaluations Coalition](https://evalevalai.com).
+Currently, I am a software engineer building evaluations on the LLM Observability team at Datadog and a researcher with [EleutherAI](https://www.eleuther.ai/) working with the [Evaluating Evaluations Coalition](https://evalevalai.com).
 
 <!-- As well as working with my wondeful collobarators! (roughly in reverse chronological order): [Trista Cao](https://tristaycao.github.io/), [Jonathan Li](https://www.cs.utexas.edu/~jli/), [Saloni Modi](https://www.linkedin.com/in/saloni-modi42/), [Sina Fazelpour](https://sinafazelpour.com/).  -->
 
